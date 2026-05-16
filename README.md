@@ -24,6 +24,15 @@ over a 20.63m obstacle-avoidance trajectory.
 
 ---
 
+## Visualizations
+
+![RRT* Path Plan](src/figures/fig0_rrt_map.png)
+![3D Trajectory](src/figures/fig1_3d_trajectory.png)
+![Position vs Time](src/figures/fig2_position_vs_time.png)
+![Simulation Dashboard](src/figures/fig3_dashboard.png)
+
+---
+
 ## Key Components
 
 ### Informed RRT* (`quad_utils.py`)
